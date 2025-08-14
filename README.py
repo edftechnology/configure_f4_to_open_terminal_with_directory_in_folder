@@ -54,7 +54,7 @@
 # 
 # 1. Exclua qualquer configuração prévia do `F4` em `Keyboard` na aba `Application Shortcuts`
 # 
-# 2. Abra o `Thunar` e acesse `"Editar" > "Configure custom actions..."`.
+# 2. Abra o `Thunar` e acesse `"Edit" > "Configure custom actions..."`.
 # 
 # 3. Clique no ícone de `"+"` para adicionar uma nova ação.
 # 
